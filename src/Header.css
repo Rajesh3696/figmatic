@@ -1,0 +1,39 @@
+.icons-list{
+    font-size: 20px;
+}
+.site-drawer-render-in-current-wrapper {
+    position: relative;
+    height: 200px;
+    padding: 48px;
+    overflow: hidden;
+    text-align: center;
+    background: #fafafa;
+    border: 1px solid #ebedf0;
+    border-radius: 2px;
+  } */
+  #components-layout-demo-top-side .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(255, 255, 255, 0.3);
+  }
+  
+   .ant-row-rtl #components-layout-demo-top-side .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+  
+  .site-layout-background {
+    background: #fff;
+  } 
+   .site-drawer-render-in-current-wrapper {
+    position: relative;
+    height: 200px;
+    padding: 48px;
+    overflow: hidden;
+    text-align: center;
+    background: #fafafa;
+    border: 1px solid #ebedf0;
+    border-radius: 2px;
+  }
